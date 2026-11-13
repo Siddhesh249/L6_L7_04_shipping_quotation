@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .coverage
 .pytest_cache/
+.hypothesis/
 
 # Lab 7 helper artefacts (scripts, raw captures, rendered images, draft report)
 Lab 7/helper_files/
