@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 .coverage
 .pytest_cache/
+
+# Lab 7 helper artefacts (scripts, raw captures, rendered images, draft report)
+Lab 7/helper_files/
+
+# Lab 7 student handout (reference material, not part of our submission)
+Lab 7/Lab_7_FuzzTesting_Student_Handout.pdf
